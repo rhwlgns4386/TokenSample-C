@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\TokenSample-c.exe
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\TokenSample-c.deps.json
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\TokenSample-c.runtimeconfig.json
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\TokenSample-c.runtimeconfig.dev.json
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\TokenSample-c.dll
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\TokenSample-c.pdb
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.AssemblyInfo.cs
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.dll
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.pdb
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.genruntimeconfig.cache
+C:\Users\USER\Desktop\internship\TokenSample-c\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\internship\TokenSample-c\obj\Debug\netcoreapp3.1\TokenSample-c.csproj.CopyComplete

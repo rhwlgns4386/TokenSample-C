@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/aNwniFiP9Y/Br8DGVAYCzPCgQ5mvg6MJXHli995iw8/0JMtwMtQJdfR6WX6RdTu/3AUW68R5EW3ema9ip+R4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\internship\\TokenSample-c\\TokenSample-c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
