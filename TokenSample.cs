@@ -10,13 +10,19 @@ namespace TokenSample
 {
     class TokenSample
     {
-        public static string key = "137fc3717f6449fe96889a42aeffda88";
-        public static string clientID = "448844e7ad85b3d489b49aef796d19a89ea7bc5ce2b99f437976b1c8d40ce742";
-        public static string MAC_address = "B8-12-65-E8-E7-D4";
-        
-        public static string refreshToken="6df816aac969043fe860ffd03df79a8ca63bfc315c7024418e59ddb466ea08f7";
+        /**============================ 사용자 정보 입력 ==========================================*/
+                //맥주소 입력해주세요.
+        public static string MAC_address = "Your Mac Address";
+        //발급받은 client_id를 입력해주세요.
+        public static string clientID = "Your clientId";
+        //API Gateway로부터 발급받은 인증키를 입력해주세요.
+        public static string key = "Your key";
 
-        public static string accessToken="370d4a87dd5d0f680fcb49b705f66b1c8f716a3d947cf17fe634623777d75da8";
+        //refresh Token을 입력해주세요.(Access Token 재발급시 입력)
+        public static string refreshToken = "Your RefreshToken";
+        //accessToken을 입력해주세요(데이터요청시 이용)
+        public static string accessToken = "Your AccessToken";
+        /**====================================== ==========================================*/
 
 
         public static void generateToken()
